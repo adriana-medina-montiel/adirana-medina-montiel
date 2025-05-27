@@ -1,7 +1,4 @@
 <!-- Banner o imagen superior (puedes reemplazar el enlace con tu propio banner) -->
-<p align="center">
-  <img src="https://i.imgur.com/9X6Wj0n.png" alt="Banner bienvenida" width="100%">
-</p>
 
 <h1 align="center">¡Hola, soy Adriana Medina Montiel! 👋</h1>
 
